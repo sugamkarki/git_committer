@@ -61,4 +61,6 @@ const gitCommitLooper = async () => {
   await startCMD(`git push`);
   await delay(15000);
 };
-gitCommitLooper();
+(async () => {
+  gitCommitLooper();
+})();
