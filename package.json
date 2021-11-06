@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "This tool creates git commit logs for a year!!",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "start": "node index.js"
   },
