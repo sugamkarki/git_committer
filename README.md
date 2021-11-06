@@ -19,4 +19,4 @@ This tool creates git commit for your profile for a year.
 ## Steps to run 
 
 - Go to any local repository.
-- Run ```npx git_committer```
+- Run ```npx commit_git```
