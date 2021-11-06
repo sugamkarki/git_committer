@@ -1,6 +1,6 @@
 {
   "name": "commit_git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This tool creates git commit logs for a year!!",
   "main": "index.js",
   "scripts": {
