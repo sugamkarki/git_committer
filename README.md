@@ -20,3 +20,5 @@ This tool creates git commit for your profile for a year.
 
 - Go to any local repository.
 - Run ```npx commit_git```
+- Enter your year eg: 1990
+- Enter the commit text
