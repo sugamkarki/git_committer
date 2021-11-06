@@ -1,10 +1,10 @@
 {
   "name": "commit_git",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This tool creates git commit logs for a year!!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
