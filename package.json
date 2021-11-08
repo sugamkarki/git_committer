@@ -1,6 +1,6 @@
 {
   "name": "commit_git",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This tool creates git commit logs for a year!!",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
   "keywords": [
     "git",
     "commit",
-    "git_commit"
+    "git_commit",
+    "cli"
   ],
   "author": "Sugam Karki",
   "license": "ISC",
